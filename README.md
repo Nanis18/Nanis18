@@ -1,6 +1,7 @@
 ### Hello today we are learning c++ 👋
 
-<!--
+
+
 **Nanis18/Nanis18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: with your hand
 - 😄 Pronouns: muscular helicopter
 - ⚡ Fun fact: *laugh*
--->
+  
