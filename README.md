@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Nasa toilet security
 - 🌱 I’m currently learning c--
-- 👯 I’m looking to collaborate on rompish rp
+- 👯 I’m looking to collaborate on rompish rp on Nanos
 - 🤔 I’m looking for help with scratch
 - 💬 Ask me about c++
 - 📫 How to reach me: with your hand
